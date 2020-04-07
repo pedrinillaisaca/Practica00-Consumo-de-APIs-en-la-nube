@@ -84,13 +84,13 @@ HEADER
 .header{
     background: url('../img/bg-banner02.jpg') no-repeat fixed;
     background-size: cover;
-    min-height: 650px;
+    min-height: 300px;
     position: relative;
 }
 .bg-color
 {
     background-color: rgba(0, 0, 0, 0.5);
-    min-height: 650px;
+    min-height: 300px;
 }
 #main-header
 {

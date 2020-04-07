@@ -1,0 +1,85 @@
+"    <div class='header' style='"+
+"    background: url('img/bg-banner02.jpg') no-repeat fixed;"+
+"    background-size: cover;"+
+"    min-height: 650px;"+"+
+"    position: relative;' >"+
+"      <div class='bg-color'>"+
+"        <header id='main-header'>"+
+"          <nav class='navbar navbar-default navbar-fixed-top'>"+
+"            <div class='container'>"+
+"              <div class='navbar-header'>"+
+"                <button type='button' class='navbar-toggle' data-toggle='collapse' data-target='#myNavbar'>"+
+"                <span class='icon-bar'></span>"+
+"                <span class='icon-bar'></span>"+
+"                <span class='icon-bar'></span>"+
+"              </button>                "+
+"                <a class='navbar-brand' href='#'>Peliculas<span class='logo-dec'>Px</span></a>"+
+"              </div>"+
+"              <div class='collapse navbar-collapse' id='myNavbar'>"+
+"                <ul class='nav navbar-nav navbar-right'>"+
+"                  <li class='active'><a href='index.html'>Home</a></li>"+
+"                  <li class=''><a href='#feature'>Datos Generales</a></li>"+
+"                  <li class=''><a href='#service'>Actores</a></li>"+
+"                  <li class=''><a href='#portfolio'>Sinopsis</a></li>"+
+"                  <li class=''><a href='#testimonial'>calificación</a></li>                  "+
+"                </ul>"+
+"              </div>"+
+"            </div>"+
+"          </nav>"+
+"        </header>        "+
+"      </div>"+
+"    </div>"+
+"    <!--/ HEADER-->"+
+"    <!---->"+
+"    <section id='feature' class='section-padding wow fadeIn delay-05s'>"+
+"      <div class='container'>"+
+"        <div class='row'>"+
+"          <div class='col-md-3 col-sm-6 col-xs-12'>"+
+"            <div class='wrap-item text-center'>"+
+"              <div class='item-img'>"+
+"                <img src='img/ser01.png'>"+
+"              </div>"+
+"              <h3 class='pad-bt15'>Fecha Lanzamiento</h3>"+
+"              <p id='fechalanzamiento'></p>"+
+"            </div>"+
+"          </div>"+
+"          <div class='col-md-3 col-sm-6 col-xs-12'>"+
+"            <div class='wrap-item text-center'>"+
+"              <div class='item-img'>"+
+"                <img src='img/ser02.png'>"+
+"              </div>"+
+"              <h3 class='pad-bt15'>Género</h3>"+
+"              <p id='genero'></p>"+
+"            </div>"+
+"          </div>"+
+"          <div class='col-md-3 col-sm-6 col-xs-12'>"+
+"            <div class='wrap-item text-center'>"+
+"              <div class='item-img'>"+
+"                <img src='img/ser03.png'>"+
+"              </div>"+
+"              <h3 class='pad-bt15'>Director</h3>"+
+"              <p id='director'></p>"+
+"            </div>"+
+"          </div>"+
+"          <div class='col-md-3 col-sm-6 col-xs-12'>"+
+"            <div class='wrap-item text-center'>"+
+"              <div class='item-img'>"+
+"                <img src='img/ser04.png'>"+
+"              </div>"+
+"              <h3 class='pad-bt15'>Escritores</h3>"+
+"              <p id='escritores'></p>"+
+"            </div>"+
+"          </div>"+
+"        </div>"+
+"      </div>"+
+"    </section>"+
+"    <section id='service' class='section-padding wow fadeInUp delay-05s'>"+
+"      <div class='container'>"+
+"        <div class='row'>"+
+"          <div class='col-md-12 text-center'>"+
+"            <h2 class='service-title pad-bt15'>ACTORES</h2>"+
+"            <p class='sub-title pad-bt15' id='actores'>AQUI VAN LOS ACTORES.</p>"+
+"            <hr class='bottom-line'>"+
+"          </div>         "+
+"          </div>"+
+"        </div>
