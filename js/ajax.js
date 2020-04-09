@@ -52,8 +52,8 @@ function creadTable(jsonString) {
     for (var i = 0; i < datos.length; i++) {
         detalle += "<tr>" +/* href='masDetalles.html' */
             "<td> <a  id='" + datos[i].imdbID + "' onclick='cargarInfPelicula(this.id)' class='btn btn-more'>Ver mas</a></td>" + //onclick='ver_mas_detalles(this.innerText)'
-            "<td>" + datos[i].Title + "</td>" +
-            "<td>" + datos[i].Year + "</td>" +
+            "<td> <p class='claseRegistros' >" + datos[i].Title + "</p></td>" +
+            "<td> <p class='claseRegistros'>" + datos[i].Year + "</p></td>" +
             "<td><img src=" + datos[i].Poster + " style='width: 220px; height: 270px;'></td>" +
             "</tr>";
 
